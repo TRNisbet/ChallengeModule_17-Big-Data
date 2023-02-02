@@ -16,7 +16,7 @@ The project is designed to retrieve data from AWS, load the data into a database
 In this data set the number of Vine reviews is smaller than expected.  The total data set has 85981 records with 32 Vine reviews and 85949 nonvine reviews.  The data set includes 48897 5 star reviews and 3414 reviews that have received over 20 votes.
 
 
-![img](./ images/ total_vine_reviews.jpg)
+![img](./images/ total_vine_reviews.jpg)
 
 
 
@@ -25,7 +25,7 @@ In this data set the number of Vine reviews is smaller than expected.  The total
 Overall 99.95% of the total count of 5 star reviews were from nonvine reviews, leaving 0.05 (rounded up) of 5 Star reviews (Image Below).  At first glance this number would seem to indicate that paying Vine members to review products is not worth the cost.  However, 24 out of the 32 or 75% of the vine reviews were 5 Star.  Conversely, unpaid 5 Star review total was 48873 out of 85949 or 52.20%.
 
 
-![img](./ images/results.jpg)
+![img](./images/results.jpg)
 
 
 ## Summary
