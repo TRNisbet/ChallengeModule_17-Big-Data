@@ -16,7 +16,7 @@ The project is designed to retrieve data from AWS, load the data into a database
 In this data set the number of Vine reviews is smaller than expected.  The total data set has 85981 records with 32 Vine reviews and 85949 nonvine reviews.  The data set includes 48897 5 star reviews and 3414 reviews that have received over 20 votes.
 
 
-![img](./images/ total_vine_reviews.jpg)
+![img](./images/total_vine_reviews.jpg)
 
 
 
